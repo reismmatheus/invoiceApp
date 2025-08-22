@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\invoice-app\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj": {}
+    "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\git\\invoice-app\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj": {
+    "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\invoice-app\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj",
+        "projectUniqueName": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj",
         "projectName": "InvoiceApp.CrossCutting",
-        "projectPath": "C:\\git\\invoice-app\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj",
+        "projectPath": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\reism\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\invoice-app\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\obj\\",
+        "outputPath": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,16 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "HtmlRenderer.PdfSharp": {
-              "target": "Package",
-              "version": "[1.5.0.6, )"
-            },
-            "PDFsharp": {
-              "target": "Package",
-              "version": "[6.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
