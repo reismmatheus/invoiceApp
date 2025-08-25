@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "InvoiceApp.Api.Controllers.InvoiceController",
+    "Method": "Generate",
+    "RelativePath": "Generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

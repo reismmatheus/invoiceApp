@@ -1,0 +1,12 @@
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\bin\Debug\net8.0\InvoiceApp.Domain.deps.json
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\bin\Debug\net8.0\InvoiceApp.Domain.dll
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\bin\Debug\net8.0\InvoiceApp.Domain.pdb
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.AssemblyInfoInputs.cache
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.AssemblyInfo.cs
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.csproj.CoreCompileInputs.cache
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.sourcelink.json
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.dll
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\refint\InvoiceApp.Domain.dll
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\InvoiceApp.Domain.pdb
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Domain\obj\Debug\net8.0\ref\InvoiceApp.Domain.dll

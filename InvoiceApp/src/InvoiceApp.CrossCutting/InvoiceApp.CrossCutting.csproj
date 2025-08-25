@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="C:\Users\reism\.nuget\packages\dinktopdfcopydependencies\1.0.8\build\libwkhtmltox.dll" />
+    <None Remove="C:\Users\reism\.nuget\packages\dinktopdfcopydependencies\1.0.8\build\libwkhtmltox.dylib" />
+    <None Remove="C:\Users\reism\.nuget\packages\dinktopdfcopydependencies\1.0.8\build\libwkhtmltox.so" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="DinkToPdf" Version="1.0.8" />
+    <PackageReference Include="DinkToPdfCopyDependencies" Version="1.0.8" />
+    <PackageReference Include="Wkhtmltopdf.NetCore" Version="3.0.2" />
+  </ItemGroup>
+
 </Project>

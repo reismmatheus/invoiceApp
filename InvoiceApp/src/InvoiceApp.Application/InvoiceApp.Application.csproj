@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DinkToPdf" Version="1.0.8" />
+    <PackageReference Include="Wkhtmltopdf.NetCore" Version="3.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InvoiceApp.CrossCutting\InvoiceApp.CrossCutting.csproj" />
+    <ProjectReference Include="..\InvoiceApp.Data\InvoiceApp.Data.csproj" />
+  </ItemGroup>
+
 </Project>

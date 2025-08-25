@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="DinkToPdf" Version="1.0.8" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Wkhtmltopdf.NetCore" Version="3.0.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\InvoiceApp.Application\InvoiceApp.Application.csproj" />
+    <ProjectReference Include="..\InvoiceApp.Data\InvoiceApp.Data.csproj" />
   </ItemGroup>
 
 </Project>

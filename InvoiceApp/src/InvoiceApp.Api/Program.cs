@@ -1,15 +1,25 @@
+using DinkToPdf.Contracts;
+using DinkToPdf;
+using InvoiceApp.Application.Interface;
+using InvoiceApp.Application.Service;
+using InvoiceApp.Data.Interface;
+using InvoiceApp.Data.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddTransient<IInvoiceService, InvoiceService>();
+
+builder.Services.AddTransient<ITemplateRepository, TemplateRepository>();
+
+builder.Services.AddSingleton(typeof(IConverter), new SynchronizedConverter(new PdfTools()));
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

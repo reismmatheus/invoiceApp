@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\git\\invoiceApp\\InvoiceApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD3D1A7-731D-49B3-83FB-7F1EE7CCD0EC}|src\\InvoiceApp.Application\\InvoiceApp.Application.csproj|c:\\git\\invoiceapp\\invoiceapp\\src\\invoiceapp.application\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD3D1A7-731D-49B3-83FB-7F1EE7CCD0EC}|src\\InvoiceApp.Application\\InvoiceApp.Application.csproj|solutionrelative:src\\invoiceapp.application\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA6517A-5E9F-4239-BE48-06574BCC1A4C}|src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj|c:\\git\\invoiceapp\\invoiceapp\\src\\invoiceapp.crosscutting\\extension\\pdfextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA6517A-5E9F-4239-BE48-06574BCC1A4C}|src\\InvoiceApp.CrossCutting\\InvoiceApp.CrossCutting.csproj|solutionrelative:src\\invoiceapp.crosscutting\\extension\\pdfextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FFCEFB-826C-3BF2-C421-F1EBD1175752}|src\\InvoiceApp.Api\\InvoiceApp.Api.csproj|c:\\git\\invoiceapp\\invoiceapp\\src\\invoiceapp.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FFCEFB-826C-3BF2-C421-F1EBD1175752}|src\\InvoiceApp.Api\\InvoiceApp.Api.csproj|solutionrelative:src\\invoiceapp.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB826B4A-FDD2-4186-8492-3104C58A74BE}|src\\InvoiceApp.Data\\InvoiceApp.Data.csproj|c:\\git\\invoiceapp\\invoiceapp\\src\\invoiceapp.data\\repository\\templaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB826B4A-FDD2-4186-8492-3104C58A74BE}|src\\InvoiceApp.Data\\InvoiceApp.Data.csproj|solutionrelative:src\\invoiceapp.data\\repository\\templaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB826B4A-FDD2-4186-8492-3104C58A74BE}|src\\InvoiceApp.Data\\InvoiceApp.Data.csproj|c:\\git\\invoiceapp\\invoiceapp\\src\\invoiceapp.data\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB826B4A-FDD2-4186-8492-3104C58A74BE}|src\\InvoiceApp.Data\\InvoiceApp.Data.csproj|solutionrelative:src\\invoiceapp.data\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB826B4A-FDD2-4186-8492-3104C58A74BE}|src\\InvoiceApp.Data\\InvoiceApp.Data.csproj|c:\\git\\invoiceapp\\invoiceapp\\src\\invoiceapp.data\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB826B4A-FDD2-4186-8492-3104C58A74BE}|src\\InvoiceApp.Data\\InvoiceApp.Data.csproj|solutionrelative:src\\invoiceapp.data\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateRepository.cs",
+              "DocumentMoniker": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Data\\Repository\\TemplateRepository.cs",
+              "RelativeDocumentMoniker": "src\\InvoiceApp.Data\\Repository\\TemplateRepository.cs",
+              "ToolTip": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Data\\Repository\\TemplateRepository.cs",
+              "RelativeToolTip": "src\\InvoiceApp.Data\\Repository\\TemplateRepository.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAgwBkBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:18:26.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfExtention.cs",
+              "DocumentMoniker": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\Extension\\PdfExtention.cs",
+              "RelativeDocumentMoniker": "src\\InvoiceApp.CrossCutting\\Extension\\PdfExtention.cs",
+              "ToolTip": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.CrossCutting\\Extension\\PdfExtention.cs",
+              "RelativeToolTip": "src\\InvoiceApp.CrossCutting\\Extension\\PdfExtention.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:13:11.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Data\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\InvoiceApp.Data\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Data\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "src\\InvoiceApp.Data\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:02:43.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Data\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\InvoiceApp.Data\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Data\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\InvoiceApp.Data\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:02:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Application\\Service\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "src\\InvoiceApp.Application\\Service\\InvoiceService.cs",
+              "ToolTip": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Application\\Service\\InvoiceService.cs",
+              "RelativeToolTip": "src\\InvoiceApp.Application\\Service\\InvoiceService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T08:45:35.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Api\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "src\\InvoiceApp.Api\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\git\\invoiceApp\\InvoiceApp\\src\\InvoiceApp.Api\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "src\\InvoiceApp.Api\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:36:25.788Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -4,6 +4,19 @@
     "title": "InvoiceApp.Api",
     "version": "1.0"
   },
-  "paths": { },
+  "paths": {
+    "/Generate": {
+      "post": {
+        "tags": [
+          "Invoice"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
   "components": { }
 }

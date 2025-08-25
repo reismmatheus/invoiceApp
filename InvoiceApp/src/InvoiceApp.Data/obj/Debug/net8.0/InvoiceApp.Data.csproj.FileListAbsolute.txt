@@ -1,0 +1,12 @@
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\bin\Debug\net8.0\InvoiceApp.Data.deps.json
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\bin\Debug\net8.0\InvoiceApp.Data.dll
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\bin\Debug\net8.0\InvoiceApp.Data.pdb
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.AssemblyInfoInputs.cache
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.AssemblyInfo.cs
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.csproj.CoreCompileInputs.cache
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.sourcelink.json
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.dll
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\refint\InvoiceApp.Data.dll
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\InvoiceApp.Data.pdb
+C:\git\invoiceApp\InvoiceApp\src\InvoiceApp.Data\obj\Debug\net8.0\ref\InvoiceApp.Data.dll

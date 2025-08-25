@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "DinkToPdf": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "DinkToPdfCopyDependencies": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "Wkhtmltopdf.NetCore": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
